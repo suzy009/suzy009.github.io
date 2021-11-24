@@ -1,0 +1,15 @@
+body {
+    margin: 0 auto;
+    position: absolute;
+    left: 50%;
+    width: 1024px;
+    margin-left: -512px;
+  	text-algin:center;
+}
+
+.date {
+    position: absolute;
+    margin: 5px 0 0 800px;
+    font-style: italic;
+    font-size:10px;
+}
